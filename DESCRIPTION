@@ -17,3 +17,5 @@ Imports:
     JM,
     statmod,
     survival
+URL: https://github.com/yunjinnkim/AUC.JM.IC
+BugReports: https://github.com/yunjinnkim/AUC.JM.IC/issues
