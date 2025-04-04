@@ -6,6 +6,22 @@
 \usage{
 ic_joint(data2, data.id, xx, ttt, yyy, xxx)
 }
+\arguments{
+\item{data2}{데이터 프레임. (설명을 추가하세요)}
+
+\item{data.id}{식별 정보가 포함된 데이터 프레임. (설명을 추가하세요)}
+
+\item{xx}{설명 추가}
+
+\item{ttt}{설명 추가}
+
+\item{yyy}{설명 추가}
+
+\item{xxx}{설명 추가}
+}
+\value{
+반환값에 대한 설명을 추가하세요.
+}
 \description{
-This function ---
+ic_joint 함수는 (설명을 추가하세요).
 }

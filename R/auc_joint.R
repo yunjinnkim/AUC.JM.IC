@@ -2,8 +2,18 @@
 #'
 #' This function ---
 #'
+#' @description ic_joint 함수는 (설명을 추가하세요).
 #'
-#' @import interval Icens stats
+#' @param data2 데이터 프레임. (설명을 추가하세요)
+#' @param data.id 식별 정보가 포함된 데이터 프레임. (설명을 추가하세요)
+#' @param xx 설명 추가
+#' @param ttt 설명 추가
+#' @param yyy 설명 추가
+#' @param xxx 설명 추가
+#'
+#' @return 반환값에 대한 설명을 추가하세요.
+#'
+#' @import interval Icens stats nlme statmod
 #' @export
 ####################################################################
 ic_joint<-function(data2,data.id,xx,ttt,yyy,xxx) {
