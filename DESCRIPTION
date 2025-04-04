@@ -19,3 +19,6 @@ Imports:
     survival
 URL: https://github.com/yunjinnkim/AUC.JM.IC
 BugReports: https://github.com/yunjinnkim/AUC.JM.IC/issues
+Depends: 
+    R (>= 2.10)
+LazyData: true
