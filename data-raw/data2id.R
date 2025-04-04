@@ -1,7 +1,7 @@
 ## code to prepare `data2id` dataset goes here
 
 usethis::use_data(data2id, overwrite = TRUE)
-data2 <- read.table(text ='"ID" "MMSE" "BVRT" "IST" "HIER" "CESD" "age" "agedem" "dem" "age_init" "CEP" "male" "TL" "TR"
+data2id <- read.table(text ='"ID" "MMSE" "BVRT" "IST" "HIER" "CESD" "age" "agedem" "dem" "age_init" "CEP" "male" "TL" "TR"
 "1" 1 26 10 37 2 11 68.5063 68.5063 0 67.4167 1 1 68.5063 Inf
 "5" 2 24 13 16 3 22 84.142368241 85.61670089 1 65.9167 1 0 84.142368241 85.61670089
 "6" 3 28 13 28 1 9 72.5924 74.7334 0 71.5 1 1 74.7334 Inf
